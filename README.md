@@ -21,7 +21,7 @@
 **UNDER DEVELOPMENT**<br>
 - more updates coming soon...
 
-#DEPLOYMENT
+# DEPLOYMENT
 *Frontend*: Netlify - https://www.netlify.com/<br>
 *Backend*: Not yet implemented.<br>
 # AUTHOR
