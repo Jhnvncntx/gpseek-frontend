@@ -5,7 +5,7 @@ html, body, main {
     width: 100vw;
     text-align: center;
     color: wheat;
-    background-color: white;
+    background-color: transparent;
 }
 
 .material-icons-outlined {
@@ -25,7 +25,6 @@ main {
 }
 
 #header {
-    /* background-color: #7a0000; */
     height: 8%;
     width: 100%;
     padding: 0;
@@ -34,8 +33,6 @@ main {
     left: 0;
     right: 0;
     z-index: 1000;
-    /* border: 1px purple solid; */
-    /* background-color: transparent; */
     background: linear-gradient(#7a0000, transparent);
 }
 
@@ -148,6 +145,18 @@ main {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+#footer {
+    height: 8%;
+    width: 100%;
+    padding: 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background: linear-gradient(transparent, #7a0000);
 }
 
 @media (max-width: 360px){
