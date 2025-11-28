@@ -15,3 +15,4 @@
 - [HEADER] Added school logo.
 - [HEADER] Added title text with custom font.
 - [HEADER] Added navigation button. (not functional).
+- **..STATIC WEBPAGE (no javascript for functionality)..**
