@@ -24,5 +24,7 @@
 # DEPLOYMENT
 *Frontend*: Netlify - https://www.netlify.com/<br>
 *Backend*: Not yet implemented.<br>
+*Database*: Not yet implemented.<br>
+
 # AUTHOR
 **Jhnvncntx**<br>Contact: https://www.facebook.com/jhnvncnt.adolfo
