@@ -7,12 +7,18 @@
 
 # Version 2025-11-28-a
 - Integrated Development Environment (IDE) setup.<br>
-- Started layout design.
-- Interface mainly for desktop view.
-- Layout response for width=500px devices.
-- Map image display (no controls and low quality).
-- Gradient header and footer.
-- [HEADER] Added school logo.
-- [HEADER] Added title text with custom font.
-- [HEADER] Added navigation button. (not functional).
-- **..STATIC WEBPAGE (no javascript for functionality)..**
+- Started layout design.<br>
+- Interface mainly for desktop view.<br>
+- Layout response for width=500px devices.<br>
+- Map image display (no controls and low quality).<br>
+- Gradient header and footer.<br>
+- [HEADER] Added school logo.<br>
+- [HEADER] Added title text with custom font.<br>
+- [HEADER] Added navigation button. (not functional).<br>
+- **..STATIC WEBPAGE (no javascript for functionality)..**<br>
+
+# STATUS
+**UNDER DEVELOPMENT**<br>
+- more updates coming soon...
+# AUTHOR
+**Jhnvncntx**<br>Contact: https://www.facebook.com/jhnvncnt.adolfo
