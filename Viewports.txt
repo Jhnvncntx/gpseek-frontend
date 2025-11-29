@@ -1,0 +1,11 @@
+Infinix Hot 40 Pro - main
+W - 360px
+H = 696px
+DPR = 3.00
+
+Tecno Spark 20
+W - 360px
+H = 718px
+DPR = 2.00
+
+at https://whatismyviewport.com/
