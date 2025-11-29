@@ -1,0 +1,22 @@
+[---PROJECT UPDATES---]
+<Version 2025-11-28-a>
+- Integrated Development Environment (IDE) setup.
+- Started layout design.
+- Interface mainly for desktop view.
+- Layout response for width=500px devices.
+- Map image display (no controls and low quality).
+- Gradient header and footer.
+- [HEADER] Added school logo.
+- [HEADER] Added title text with custom font.
+- [HEADER] Added navigation button. (not functional).
+- STATIC WEBPAGE (no javascript for functionality)
+- more features coming soon...
+
+<Version 2025-11-29-a>
+- Login form layout (for mobile)
+- Background image with overlay
+- Logo & Title
+- Form inputs for lrn & password
+- Password hide/show toggle
+- No functionality (static webpage)
+- More coming soon...
