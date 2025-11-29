@@ -10,8 +10,3 @@ toggle.addEventListener('click', () => {
   }
 });
 
-if (pwd.type === "password") {
-    pwd.type = "text";
-} else {
-    pwd.type = "password";
-}
