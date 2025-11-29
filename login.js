@@ -1,5 +1,10 @@
+const form = document.getElementById('login-form');
 const pwd = document.getElementById('password');
 const toggle = document.getElementById('toggle-button');
+
+form.addEventListener("submit", function(e){
+    e.preventDefault();
+});
 
 toggle.addEventListener('click', () => {
   pwd.type = pwd.type === "password" ? "text" : "password";
@@ -9,4 +14,5 @@ toggle.addEventListener('click', () => {
     toggle.innerText = "Show";
   }
 });
+
 
